@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.booble {
+  border-radius: 50%;
+  position: absolute;
+}
+
+.btn_kolo {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  margin-left: -100px;
+  margin-top: -20px;
+  width: 130px;
+}
+input {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  margin-left: -100px;
+  margin-top: 10px;
+  width: 130px;
+}
